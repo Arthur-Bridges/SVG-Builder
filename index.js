@@ -1,6 +1,6 @@
 import inquirer from 'inquirer';
-import { writeFile } from 'fs/promises';
-import { squareRen, circleRen, triangleRen } from './lib/shapes.js';
+import {writeFile} from 'fs/promises';
+import {Square, Circle, Triangle} from './lib/shapes';
 
 const questions = [
     {
