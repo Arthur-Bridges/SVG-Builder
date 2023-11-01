@@ -6,22 +6,22 @@ const questions = [
     {
       type: 'input',
       name: 'text',
-      message: 'TEXT: Enter up to (3) Characters:',
+      message: 'Enter up to (3) Characters:',
     },
     {
       type: 'input',
       name: 'textColor',
-      message: 'TEXT COLOR: Enter a color keyword (OR a hexadecimal number):',
+      message: 'Enter a color keyword (OR a hexadecimal number):',
     },
     {
       type: 'input',
       name: 'shapeColor',
-      message: 'SHAPE COLOR: Enter a color keyword (OR a hexadecimal number):',
+      message: 'Enter a color keyword (OR a hexadecimal number):',
     },
     {
       type: 'list',
       name: 'shapeImg',
-      message: 'Choose which Pixel Image you would like?',
+      message: 'Choose which Shape Image you would like?',
       choices: ['Circle', 'Square', 'Triangle'],
     },
   ];
