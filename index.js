@@ -1,6 +1,6 @@
 import inquirer from 'inquirer';
 import {writeFile} from 'fs/promises';
-import {Square, Circle, Triangle} from '../lib/shapes.js';
+import {Square, Circle, Triangle} from './lib/shapes';
 
 class SvgFile {
     constructor(){
@@ -100,3 +100,5 @@ const writeToFile = async (fileName, data) => {
   }
   
   init();
+
+
