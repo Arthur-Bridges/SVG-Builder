@@ -1,6 +1,6 @@
-const inquirer = require('inquirer');
-const {writeFile} = require('fs').promises;
-const {squareRen, circleRen, triangleRen} = require('./lib/shapes');
+import inquirer from 'inquirer';
+import { writeFile } from 'fs/promises';
+import { squareRen, circleRen, triangleRen } from './lib/shapes.js';
 
 const questions = [
     {
