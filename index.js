@@ -86,7 +86,7 @@ const writeToFile = async (fileName, data) => {
   
     userShape.setColor(shapeColor);
   
-    const svg = new Svg();
+    const svg = new SvgFile();
 
     svg.setTextElement(text, textColor);
 
