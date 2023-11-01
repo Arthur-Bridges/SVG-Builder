@@ -1,5 +1,5 @@
 import inquirer from "inquirer";
-const {writeFile} = require('fs').promises
+const {writeFile} = require('fs').promises;
 const {squareRen, circleRen, triangleRen} = require("./lib/shapes");
 
 const questions = [
@@ -20,7 +20,7 @@ const questions = [
     },
     {
       type: 'list',
-      name: 'pixelImage',
+      name: 'shapeImg',
       message: 'Choose which Pixel Image you would like?',
       choices: ['Circle', 'Square', 'Triangle'],
     },
