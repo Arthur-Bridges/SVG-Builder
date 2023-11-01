@@ -1,4 +1,4 @@
-import inquirer from 'inquirer';
+const inquirer = require('inquirer');
 const {writeFile} = require('fs').promises;
 const {squareRen, circleRen, triangleRen} = require('./lib/shapes');
 
@@ -67,15 +67,15 @@ const writeToFile = async (fileName, data) => {
   
     switch (shapeImg.toLowerCase()) {
 
-      case 'Square':
+      case 'square':
         userShape = new squareRen();
         break;
 
-      case 'Circle':
+      case 'circle':
         userShape = new circleRen();
         break;
       
-      case 'Triangle':
+      case 'triangle':
         userShape = new triangleRen();
         break;
 
