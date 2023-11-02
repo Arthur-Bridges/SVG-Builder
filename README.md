@@ -44,7 +44,9 @@ Github Repo: https://github.com/Arthur-Bridges/SVG-Builder
 
 
 ![badge](https://img.shields.io/badge/Arthurs%20badge-2EB107)
-![badge](https://img.shields.io/badge/40%-HTML-FF704D)
-![badge](https://img.shields.io/badge/5%-CSS-61CCD2)
-![badge](https://img.shields.io/badge/55%-JavaScript-FF700B)
-[shields.io](https://shields.io/).
+![NPM](https://img.shields.io/npm/l/Express)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NodeJS-%23339933?logo=nodeJS&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?logo=github&labelColor=black)
+
+
