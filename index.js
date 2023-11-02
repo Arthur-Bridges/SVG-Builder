@@ -1,6 +1,6 @@
 import inquirer from 'inquirer';
 import {writeFile} from 'fs/promises';
-import {Square, Circle, Triangle} from './lib/shapes';
+import {Square, Circle, Triangle} from './lib/shapes.js';
 
 class SvgFile {
     constructor(){
