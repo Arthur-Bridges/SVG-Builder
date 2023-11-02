@@ -2,7 +2,7 @@
 
 ## Description
 
-Hello, my name is Arthur, and I'd like to present you a SVG Generator
+Hello, my name is Arthur, and I'd like to present you a SVG File Generator.
 
 ## Installation
 
