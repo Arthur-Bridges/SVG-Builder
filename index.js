@@ -30,12 +30,12 @@ const questions = [
     {
       type: 'input',
       name: 'textColor',
-      message: 'Enter a color keyword (OR a hexadecimal number):',
+      message: 'Enter a text color keyword (OR a hexadecimal number):',
     },
     {
       type: 'input',
       name: 'shapeColor',
-      message: 'Enter a color keyword (OR a hexadecimal number):',
+      message: 'Enter a shape color keyword (OR a hexadecimal number):',
     },
     {
       type: 'list',

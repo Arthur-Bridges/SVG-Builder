@@ -13,9 +13,11 @@ N/A
 Usage for this application is very simple. 
 
 1. **Creating SVG files:**
+
 -Answer all the questions within the prompts.
 
 2. **Results:**
+
 -When finished a SVG file will appear within same folder.
 
 
@@ -34,7 +36,7 @@ N/A
 
 ## Deployed Website
 
-Photo of deployed Site: N/A
+Photo of deployed Site: ![Alt text](<Screenshot 2023-11-01 at 9.57.55 PM.png>)
 
 Github Repo: https://github.com/Arthur-Bridges/SVG-Builder
 
